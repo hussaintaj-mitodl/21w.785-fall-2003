@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout for presenation on websites as metaphors.
 file: /media/courses/21w-785-communicating-in-cyberspace-fall-2003/94f95b014084bba6c28e73bf5ed786fa_siteplan_metaphor.pdf
+file_size: 22147
 file_type: application/pdf
 learning_resource_types:
 - Readings

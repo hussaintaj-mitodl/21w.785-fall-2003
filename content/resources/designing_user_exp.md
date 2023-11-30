@@ -3,6 +3,7 @@ content_type: resource
 description: Slide presentation on the web development process and the audience/client/developer
   relationship.
 file: /media/courses/21w-785-communicating-in-cyberspace-fall-2003/51beb60846decc51bc74ef2bd62fad2a_designing_user_exp.pdf
+file_size: 21832
 file_type: application/pdf
 learning_resource_types:
 - Readings
