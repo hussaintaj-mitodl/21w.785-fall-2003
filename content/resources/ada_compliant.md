@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture handout on designing websites that compliant with the Americans
   with Disabilities Act (ADA).
-file: /media/courses/21w-785-communicating-in-cyberspace-fall-2003/d1699257fb3d9ad8d8cbc75d9aaf287f_ada_compliant.pdf
+file: /courses/21w-785-communicating-in-cyberspace-fall-2003/d1699257fb3d9ad8d8cbc75d9aaf287f_ada_compliant.pdf
 file_size: 18656
 file_type: application/pdf
 learning_resource_types:
